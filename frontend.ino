@@ -235,7 +235,9 @@ String getFrontend(){
   page += getSwitchHtml(LABEL_ON, RELAIS_MODE_ON); 
   page += getSwitchHtml(LABEL_OFF, RELAIS_MODE_OFF); 
   page += getSwitchHtml(LABEL_AUTO, RELAIS_MODE_AUTO);  
-
+  
+  page += HTML_MANUAL_SWITCH_END;
+  
   page += HTML_FOOT;
   
   return page;
