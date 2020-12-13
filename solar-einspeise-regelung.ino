@@ -1,6 +1,6 @@
 /**
  * ---------------------------------------------------------------------------------- 
- * Einspeise Steuerung
+ * Solar Einspeise Regelung
  * ---------------------------------------------------------------------------------- 
  * Kooperation von Utuberlars und SmartHome yourself
  * 
@@ -10,7 +10,11 @@
  * SmartHome yourself:   https://www.youtube.com/SmartHomeYourselfDe_DIY
  *                       https://smarthomeyourself.de
  * 
- * Platine zum Projekt:  XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ * Platine zum Projekt:  https://www.pcbway.com/project/shareproject/Solar_Einspeise_Regelung.html
+ * 
+ * Sourcecode:           https://github.com/danielscheidler/solar-einspeise-regelung
+ *  
+ * Kurzanleitung:        https://smarthomeyourself.de/anleitung-zum-selber-bauen/unabhaengige-projekte/arduino-und-esp-projekte/solar-einspeise-regelung-utuberlars/
  * 
  * ----------------------------------------------------------------------------------
  * 
